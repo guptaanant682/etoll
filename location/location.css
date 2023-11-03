@@ -128,7 +128,7 @@
     height: 4vh;
     width: 24.2vw;
     margin-left: 25px;
-    background-color: #dfdede;
+    background-color: #f4f6f6;
     border-radius: 6px;
     margin-bottom: 6vh;
     padding: 25px 0px;
@@ -155,7 +155,7 @@
 .text-bg-2{
     height: 4vh;
     width: 24.2vw;
-    background-color: #dfdede;
+    background-color: #f4f6f6;
     border-radius: 6px;
     display: flex;
     margin-bottom: 6vh;
@@ -179,7 +179,7 @@
 .text-bg-3{
     height: 4vh;
     width: 24.2vw;
-    background-color: #dfdede;
+    background-color: #f4f6f6;
     border-radius: 6px;
     display: flex;
     padding: 25px 0px;
@@ -208,7 +208,7 @@
 .text-bg-v{
     height: 24vh;
     width: 24.2vw;
-    background-color: #edebeb;
+    background-color: #f4f6f6;
     border-radius: 6px;
     margin-left: 70px;
     margin-bottom: 6vh;
